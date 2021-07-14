@@ -1,0 +1,144 @@
+﻿Variable,Description
+R_fighter,Name of red fighter
+B_fighter,Name of blue fighter
+R_odds,Odds that red will win
+B_odds,Odds that blue will win
+R_ev,Profit of 100 unit winning bet on red
+B_ev,Profit of 100 unit winning bet on blue
+date,Date of the fight
+location,Location of the fight
+country,Country in which fight takes place
+Winner,"Winner of the fight [red, blue, or draw]"
+title_bout,Is this a title fight? [T/F]
+weight_class,Weight class of the fight
+gender,Gender of fighters
+no_of_rounds,Number of rounds in the fight
+B_current_lose_streak,Blue's current losing streak
+B_current_win_streak,Blue's current win streak
+B_draw,Blue number of draws
+B_avg_SIG_STR_landed,Blue avg signifigant strikes/minute
+B_avg_SIG_STR_pct,Blue avg signifigant stiking accuracy
+B_avg_SUB_ATT,Blue avg submissions attempted/15 mins
+B_avg_TD_landed,Blue avg takedowns landed/15 mins
+B_avg_TD_pct,Blue avg takedown accuracy
+B_longest_win_streak,Blue longest winning streak
+B_losses,Blue total number of losses
+B_total_rounds_fought,Blue total number of rounds fought
+B_total_title_bouts,Blue total number of title fights
+B_win_by_Decision_Majority,Blue total wins by MD
+B_win_by_Decision_Split,Blue total wins by SD
+B_win_by_Decision_Unanimous,Blue total wins by UD
+B_win_by_KO/TKO,Blue total wins by KO/TKO
+B_win_by_Submission,Blue total wins buy submission
+B_win_by_TKO_Doctor_Stoppage,Blue total wins by doctor stoppage
+B_wins,Blue total wins
+B_Stance,Blue fighting stance
+B_Height_cms,Blue height (in cm's)
+B_Reach_cms,Blue reach (in cm's)
+B_Weight_lbs,Blue wight (in lb's)
+R_current_lose_streak,Red's current losing streak
+R_current_win_streak,Red's current winning streak
+R_draw,Red number of draws
+R_avg_SIG_STR_landed,Red avg signifigant strikes/minute
+R_avg_SIG_STR_pct,Red avg signifigant stiking accuracy
+R_avg_SUB_ATT,Red avg submissions attempted/15 mins
+R_avg_TD_landed,Red avg takedowns landed/15 mins
+R_avg_TD_pct,Red avg takedown accuracy
+R_longest_win_streak,Red longest winning streak
+R_losses,Red total number of losses
+R_total_rounds_fought,Red total number of rounds fought
+R_total_title_bouts,Red total number of title fights
+R_win_by_Decision_Majority,Red total wins by MD
+R_win_by_Decision_Split,Red total wins by SD
+R_win_by_Decision_Unanimous,Red total wins by UD
+R_win_by_KO/TKO,Red total wins by KO/TKO
+R_win_by_Submission,Red total wins by submission
+R_win_by_TKO_Doctor_Stoppage,Red total wins by doctor stoppage
+R_wins,Red total wins
+R_Stance,Red fighting stance
+R_Height_cms,Red height (in cm's)
+R_Reach_cms,Red reach (in cm's)
+R_Weight_lbs,Red weight (in lb's)
+R_age,Age of red fighter
+B_age,Age of blue fighter
+lose_streak_dif,Blue losing streak - red losing streak
+win_streak_dif,Blue winning streak - red winning streak
+longest_win_streak_dif,Blue longest win streak - red longest win streak
+win_dif,Blue total wins - red total wins
+loss_dif,Blue total losses - red total losses
+total_round_dif,Blue total rounds fought - red total rounds fought
+total_title_bout_dif,Blue total number of title fights - red total number of title fights
+ko_dif,Blue total wins by KO/TKO - red total wins by KO/TKO
+sub_dif,Blue total wins by submission - red total wins by submission
+height_dif,Blue height - red height (in cm's)
+reach_dif,Blue reach - red reach (in cm's)
+age_dif,Blue age - red age
+sig_str_dif,Blue signifigant strikes/min - red signifigant strikes/min
+avg_sub_att_dif,Blue avg submission attemps - red avg submission attempts
+avg_td_dif,Blue takedown attempts - red takedown attempts
+empty_arena,Did the fight occur in an empty arena? (1 = empty arena)
+constant_1,
+B_match_weightclass_rank,Blue's ranking in weightclass of fight
+R_match_weightclass_rank,Red's ranking in weightclass of fight
+R_Women's Flyweight_rank,
+R_Women's Featherweight_rank,
+R_Women's Strawweight_rank,
+R_Women's Bantamweight_rank,
+R_Heavyweight_rank,
+R_Light Heavyweight_rank,
+R_Middleweight_rank,
+R_Welterweight_rank,
+R_Lightweight_rank,
+R_Featherweight_rank,
+R_Bantamweight_rank,
+R_Flyweight_rank,
+R_Pound-for-Pound_rank,
+B_Women's Flyweight_rank,
+B_Women's Featherweight_rank,
+B_Women's Strawweight_rank,
+B_Women's Bantamweight_rank,
+B_Heavyweight_rank,
+B_Light Heavyweight_rank,
+B_Middleweight_rank,
+B_Welterweight_rank,
+B_Lightweight_rank,
+B_Featherweight_rank,
+B_Bantamweight_rank,
+B_Flyweight_rank,
+B_Pound-for-Pound_rank,
+better_rank,"Fighter with better rank [blue, red]"
+finish,How the fight was finished
+finish_details,Detailed description of finish (if available)
+finish_round,Round in which fight was finished
+finish_round_time,Time of the finish
+total_fight_time_secs,Total duration of fight (in sec's)
+R_kd_bout,
+B_kd_bout,
+R_sig_str_landed_bout,
+B_sig_str_landed_bout,
+R_sig_str_attempted_bout,
+B_sig_str_attempted_bout,
+R_sig_str_pct_bout,
+B_sig_str_pct_bout,
+R_tot_str_landed_bout,
+B_tot_str_landed_bout,
+R_tot_str_attempted_bout,
+B_tot_str_attempted_bout,
+R_td_landed_bout,
+B_td_landed_bout,
+R_td_attempted_bout,
+B_td_attempted_bout,
+R_td_pct_bout,
+B_td_pct_bout,
+R_sub_attempts_bout,
+B_sub_attempts_bout,
+R_pass_bout,
+B_pass_bout,
+R_rev_bout,
+B_rev_bout,
+r_dec_odds,
+b_dec_odds,
+r_sub_odds,
+b_sub_odds,
+r_ko_odds,
+b_ko_odds,
